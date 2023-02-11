@@ -1,0 +1,18 @@
+/* components */
+@import "components/status-bar.css";
+@import "components/screen-header.css";
+
+/* screen */
+@import "screen/home-screen.css";
+
+body {
+  height: 90vh;
+  margin: 0;
+  background-color: rgba(128, 128, 128, 0.15);
+}
+h2 {
+  margin: 0;
+}
+main {
+  padding: 0 10px;
+}

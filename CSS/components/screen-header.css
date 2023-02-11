@@ -1,0 +1,19 @@
+.screen-header {
+  padding: 3px 15px 12px 15px;
+}
+.screen-header__title {
+  font-size: 25px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.4);
+}
+.screen-header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.screen-header__icons span {
+  margin-left: 20px;
+}
+.screen-header__icons {
+  color: rgba(0, 0, 0, 0.4);
+}
