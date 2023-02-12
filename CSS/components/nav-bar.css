@@ -1,0 +1,54 @@
+.nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #f9f9fa;
+  padding: 10px 40px;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 0px;
+}
+.nav__link {
+  color: #2f363e;
+  position: relative;
+}
+.nav__notification {
+  position: absolute;
+  left: 14px;
+  bottom: 10px;
+  animation: notificationAnimation 2s ease-in-out infinite;
+}
+.nav__dot {
+  background-color: tomato;
+  width: 4px;
+  height: 4px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 540;
+  position: absolute;
+  left: 23px;
+  bottom: 18px;
+}
+
+.nav__btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav__btn span {
+  margin-top: 3px;
+  font-size: 12px;
+  font-weight: 600;
+}

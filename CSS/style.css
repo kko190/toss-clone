@@ -1,12 +1,14 @@
 /* components */
 @import "components/status-bar.css";
 @import "components/screen-header.css";
+@import "components/asset-box__column.css";
+@import "components/nav-bar.css";
 
 /* screen */
 @import "screen/home-screen.css";
 
 body {
-  height: 90vh;
+  height: 150vh;
   margin: 0;
   background-color: rgba(128, 128, 128, 0.15);
 }
