@@ -5,6 +5,7 @@
   display: flex;
   justify-content: center;
   padding: 5px 1px;
+  background-color: #ececec;
 }
 
 .status-bar__column:first-child span {

@@ -1,0 +1,78 @@
+.investment-box__avatar {
+  width: 60px;
+  height: 55px;
+  border-radius: 20px;
+  margin-left: 8px;
+}
+
+.investment-box__column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.investment-box__title {
+  font-size: 12px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.investment-box__money {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.investment-box__send {
+  font-size: 13px;
+  margin-right: 10px;
+  padding: 5px 10px;
+  border-radius: 6px;
+  background-color: rgba(128, 128, 128, 0.2);
+  font-weight: 600;
+}
+
+.investment-box__main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.investment-box__main {
+  margin-bottom: 10px;
+}
+.investment-box__avatar--xl {
+  width: 45px;
+  height: 51px;
+  border-radius: 20px;
+  margin-left: 13px;
+  margin-right: 9px;
+}
+.investment-box__avatar--m {
+  width: 70px;
+  height: 80px;
+  border-radius: 20px;
+  margin-right: -1px;
+  margin-left: -1px;
+}
+
+.investment-box {
+  margin-bottom: 10px;
+}
+.investment-box {
+  padding: 23px 10px 10px 10px;
+  border-radius: 25px;
+  background-color: white;
+}
+.investment-box__main {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+.investment-box__word {
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 15px;
+}
+.investment-box__chevron {
+  margin-right: 10px;
+  color: rgba(0, 0, 0, 0.4);
+}

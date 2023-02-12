@@ -1,14 +1,16 @@
 /* components */
 @import "components/status-bar.css";
 @import "components/screen-header.css";
-@import "components/asset-box__column.css";
 @import "components/nav-bar.css";
 
 /* screen */
-@import "screen/home-screen.css";
-
+@import "screen/home-box.css";
+@import "screen/asset-box.css";
+@import "screen/consumption-box.css";
+@import "screen/investment-box.css";
+@import "screen/etc-box.css";
 body {
-  height: 150vh;
+  height: 220vh;
   margin: 0;
   background-color: rgba(128, 128, 128, 0.15);
 }

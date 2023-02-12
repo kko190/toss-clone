@@ -30,7 +30,7 @@
   font-weight: 600;
   color: rgba(11, 11, 223, 0.8);
 }
-.asset-box__chevron,
+
 .home-box__chevron {
   margin-right: 10px;
   color: rgba(0, 0, 0, 0.4);
@@ -41,30 +41,17 @@
   font-size: 25px;
   color: rgba(11, 11, 223, 0.8);
 }
-.asset-box__word,
+
 .home-box__word {
   font-size: 20px;
   font-weight: 600;
   margin-left: 15px;
 }
 
-.home-screen {
-  /* display: flex; */
-}
 .home-page {
   padding: 0 15px;
 }
 
 .top-box__content:first-child {
   font-size: 300px;
-}
-.asset-box {
-  padding: 23px 10px 10px 10px;
-  border-radius: 25px;
-  background-color: white;
-}
-.asset-box__main {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 25px;
 }
