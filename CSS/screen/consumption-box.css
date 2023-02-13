@@ -58,14 +58,14 @@
   margin-bottom: 10px;
 }
 .consumption-box {
-  padding: 23px 10px 10px 10px;
+  padding: 23px 10px 5px 10px;
   border-radius: 25px;
   background-color: white;
 }
 .consumption-box__main {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 .consumption-box__word {
   font-size: 20px;

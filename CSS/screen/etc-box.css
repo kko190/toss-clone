@@ -1,3 +1,38 @@
 .etc-box {
   display: flex;
+  justify-content: space-between;
+}
+.etc-box span {
+  display: flex;
+  flex-direction: column;
+}
+.etc-box__mini {
+  padding: 10px 15px;
+  height: 110px;
+  border-radius: 20px;
+  background-color: white;
+  width: 75px;
+}
+.etc-box__mini span:first-of-type {
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.7);
+}
+.etc-box__mini span {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+}
+.etc-box__mini i {
+  font-size: 25px;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+.etc-box__first-icon i,
+.etc-box__second-icon i {
+  color: rgba(0, 0, 255, 0.8);
+}
+.etc-box__third-icon i {
+  color: rgba(255, 166, 0, 0.9);
 }

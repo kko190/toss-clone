@@ -9,8 +9,10 @@
 @import "screen/consumption-box.css";
 @import "screen/investment-box.css";
 @import "screen/etc-box.css";
+@import "screen/etc-btn.css";
+@import "screen/personal-info.css";
 body {
-  height: 220vh;
+  height: 215vh;
   margin: 0;
   background-color: rgba(128, 128, 128, 0.15);
 }
