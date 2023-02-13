@@ -1,16 +1,21 @@
 /* components */
 @import "components/status-bar.css";
-@import "components/screen-header.css";
 @import "components/nav-bar.css";
 
-/* screen */
-@import "screen/home-box.css";
-@import "screen/asset-box.css";
-@import "screen/consumption-box.css";
-@import "screen/investment-box.css";
-@import "screen/etc-box.css";
-@import "screen/etc-btn.css";
-@import "screen/personal-info.css";
+/* Home-screen */
+@import "Home-screen-css/screen-header.css";
+@import "Home-screen-css/home-box.css";
+@import "Home-screen-css/asset-box.css";
+@import "Home-screen-css/consumption-box.css";
+@import "Home-screen-css/investment-box.css";
+@import "Home-screen-css/etc-box.css";
+@import "Home-screen-css/etc-btn.css";
+@import "Home-screen-css/personal-info.css";
+
+/* benefits */
+@import "benefits-css/benefits-header.css";
+@import "benefits-css/benefits-page.css";
+
 body {
   height: 215vh;
   margin: 0;

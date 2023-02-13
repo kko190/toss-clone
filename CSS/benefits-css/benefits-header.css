@@ -1,0 +1,25 @@
+.benefits__title {
+  margin: 40px 0px;
+  font-size: 22px;
+  font-weight: 600;
+}
+.benefits-header {
+  padding: 3px 20px 12px 20px;
+}
+.benefits__my-point {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 800;
+}
+.benefits__point-word {
+  font-size: 17px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.benefits__how-much span {
+  color: black;
+  font-size: 17px;
+}
+.benefits__how-much i {
+  color: rgba(0, 0, 0, 0.6);
+  margin-left: 10px;
+}
