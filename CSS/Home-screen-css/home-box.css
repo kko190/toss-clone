@@ -50,6 +50,7 @@
 
 .home-page {
   padding: 0 15px;
+  background-color: rgba(128, 128, 128, 0.15);
 }
 
 .top-box__content:first-child {

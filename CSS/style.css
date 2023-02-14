@@ -1,3 +1,4 @@
+@import "variables.css";
 /* components */
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
@@ -16,10 +17,13 @@
 @import "benefits-css/benefits-header.css";
 @import "benefits-css/benefits-page.css";
 
+/* Send */
+@import "Send-css/Send-header.css";
+@import "Send-css/Send-page.css";
+
 body {
-  height: 215vh;
+  height: 209vh;
   margin: 0;
-  background-color: rgba(128, 128, 128, 0.15);
 }
 h2 {
   margin: 0;
