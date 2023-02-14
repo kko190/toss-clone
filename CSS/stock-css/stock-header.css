@@ -1,0 +1,10 @@
+.stock-header {
+  display: flex;
+  margin-top: 5px;
+  justify-content: flex-end;
+  align-items: center;
+}
+.stock-header__bar span {
+  margin-right: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}

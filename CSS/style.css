@@ -21,6 +21,9 @@
 @import "Send-css/Send-header.css";
 @import "Send-css/Send-page.css";
 
+/* stock-css */
+@import "stock-css/stock-header.css";
+
 body {
   height: 209vh;
   margin: 0;
