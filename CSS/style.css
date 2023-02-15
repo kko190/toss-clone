@@ -23,6 +23,7 @@
 
 /* stock-css */
 @import "stock-css/stock-header.css";
+@import "stock-css/stock-page.css";
 
 body {
   height: 209vh;

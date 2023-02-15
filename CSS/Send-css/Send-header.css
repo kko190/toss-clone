@@ -5,7 +5,7 @@
 }
 .Send-header__box {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
   margin: 20px 0px;
   border-radius: 10px;
