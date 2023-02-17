@@ -24,11 +24,11 @@
 /* stock-css */
 @import "stock-css/stock-header.css";
 @import "stock-css/stock-page.css";
+@import "stock-css/stock-setting.css";
 /* all-css */
 @import "all-css/all-header.css";
 @import "all-css/all-page.css";
-/* stock-setting-css */
-@import "stock-setting-css/stock-setting.css";
+@import "all-css/all-setting.css";
 
 body {
   height: 206.5vh;

@@ -1,6 +1,8 @@
 .all-header_setting-bar {
   display: flex;
   justify-content: flex-end;
+}
+.all-header_setting-bar i {
   color: rgba(0, 0, 0, 0.5);
 }
 .all-header_title-text {
