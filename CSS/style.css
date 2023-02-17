@@ -24,7 +24,9 @@
 /* stock-css */
 @import "stock-css/stock-header.css";
 @import "stock-css/stock-page.css";
-
+/* all-css */
+@import "all-css/all-header.css";
+@import "all-css/all-page.css";
 body {
   height: 209vh;
   margin: 0;
