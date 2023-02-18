@@ -40,6 +40,6 @@
 a {
   color: black;
 }
-.stock-setting_body {
-  background-color: rgba(0, 0, 0, 0.1);
+.stock-setting__body {
+  background-color: var(--bg-color);
 }
