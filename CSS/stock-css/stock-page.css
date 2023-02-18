@@ -147,8 +147,9 @@
 .stock-page__title,
 .stock-page__advertisement,
 .stock-page__live-chart__text,
-.stock-page__follow-genius-text {
-  padding: 0px 15px;
+.stock-page__live-chart__menu,
+.stock-page__follow-genius {
+  padding: 0px 20px;
 }
 
 .stock-page__list-icon span {
@@ -208,4 +209,7 @@
   color: rgb(46, 46, 46, 0.9);
   font-weight: 600;
   font-size: 13px;
+}
+.stock-page {
+  padding: 0;
 }
