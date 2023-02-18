@@ -2,6 +2,7 @@
 /* components */
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
+@import "components/home-status-bar.css";
 
 /* Home-screen */
 @import "Home-screen-css/screen-header.css";
